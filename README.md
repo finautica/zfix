@@ -25,7 +25,7 @@
   <h1 align="center">ZFIX</h1>
 
   <p align="center">
-        An attempt to create foundation for a FIX engine in Zig.
+        An attempt to create a foundation for a FIX engine in Zig.
     </p>
 </div>
 
